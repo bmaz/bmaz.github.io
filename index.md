@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+### 
+
 ***
 
 ## Research Project
@@ -33,7 +35,7 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Publications
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J., (2020). “Représentations lexicales pour 
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). “Représentations lexicales pour 
 la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus 
 français et anglais”. In *“Extraction et Gestion des Connaissances (EGC 2020)”*
 
@@ -50,7 +52,7 @@ In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme C
 ***
 
 ## Communications and Posters
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J., (2019). [“Réduire les biais dans la collecte de 
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2019). [“Réduire les biais dans la collecte de 
 tweets”](http://dahlia.egc.asso.fr/journeeDAHLIA28062019/7%20Mazoyer_et_al.pdf). In *"Journée DAHLIA - 
 Informatique et Humanités numériques : quelles problématiques pour quels domaines ?"*, June 24, 2019, 
 Nantes, France
