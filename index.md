@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ## Research Project
 
 I am a PhD student working on **mutual influences between social media and traditional news media**. My research project is
