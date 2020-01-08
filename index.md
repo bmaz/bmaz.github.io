@@ -45,6 +45,8 @@ Mazoyer, B., Turenne, N., & Viaud, M.-L. (2017). [“Étude des influences réci
 sociaux et médias traditionnels”](https://hal.archives-ouvertes.fr/hal-01691967/document). 
 In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme Computationnel 2017”*, 37–40
 
+***
+
 ## Communications and Posters
 Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J., (2019). [“Réduire les biais dans la collecte de 
 tweets”](http://dahlia.egc.asso.fr/journeeDAHLIA28062019/7%20Mazoyer_et_al.pdf). In *"Journée DAHLIA - 
