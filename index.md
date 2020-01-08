@@ -31,11 +31,26 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Publications
-Mazoyer, B., Cagé, J., Hudelot, C., & Viaud, M.-L. (2018). “Real-Time Collection of Reliable
-and Representative Tweets Datasets Related to News Events”. In *“Proceedings of the First
-International Workshop on Analysis of Broad Dynamic Topics over Social Media (BroDyn 2018)
-co-located with the 40th European Conference on Information Retrieval (ECIR 2018)”*, 23–34
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J., (2020). “Représentations lexicales pour 
+la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus 
+français et anglais”. In *“Extraction et Gestion des Connaissances (EGC 2020)”*
 
-Mazoyer, B., Turenne, N., & Viaud, M.-L. (2017). “Étude des influences réciproques entre médias
-sociaux et médias traditionnels”. In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier
-Journalisme Computationnel 2017”*, 37–40
+Mazoyer, B., Cagé, J., Hudelot, C., & Viaud, M.-L. (2018). [“Real-Time Collection of Reliable
+and Representative Tweets Datasets Related to News Events”](http://ceur-ws.org/Vol-2078/paper2.pdf). 
+In *“Proceedings of the First International Workshop on Analysis of Broad Dynamic Topics over Social 
+Media (BroDyn 2018) co-located with the 40th European Conference on Information Retrieval (ECIR 2018)”*, 
+23–34
+
+Mazoyer, B., Turenne, N., & Viaud, M.-L. (2017). [“Étude des influences réciproques entre médias
+sociaux et médias traditionnels”](https://hal.archives-ouvertes.fr/hal-01691967/document). 
+In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme Computationnel 2017”*, 37–40
+
+## Communications and Posters
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J., (2019). [“Réduire les biais dans la collecte de 
+tweets”](http://dahlia.egc.asso.fr/journeeDAHLIA28062019/7%20Mazoyer_et_al.pdf). In *"Journée DAHLIA - 
+Informatique et Humanités numériques : quelles problématiques pour quels domaines ?"*, June 24, 2019, 
+Nantes, France
+
+Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. Poster at the 
+*[Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/)*, 
+May 24, 2019, Lyon, France.
