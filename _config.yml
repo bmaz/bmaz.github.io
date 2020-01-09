@@ -5,6 +5,6 @@ description: PhD student at Institut National de l'Audiovisuel
 street: 18 avenue des Frères Lumière
 city: 94360 Bry-sur-Marne, France
 mail: bmazoyer[at]ina.fr
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
