@@ -35,9 +35,9 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Publications
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). “Représentations lexicales pour 
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). [“Représentations lexicales pour 
 la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus 
-français et anglais”. In *“Extraction et Gestion des Connaissances (EGC 2020)”*
+français et anglais”](https://arxiv.org/abs/2001.04139). In *“Extraction et Gestion des Connaissances (EGC 2020)”*
 
 Mazoyer, B., Cagé, J., Hudelot, C., & Viaud, M.-L. (2018). [“Real-Time Collection of Reliable
 and Representative Tweets Datasets Related to News Events”](http://ceur-ws.org/Vol-2078/paper2.pdf). 
