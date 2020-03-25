@@ -1,10 +1,8 @@
 title: Béatrice Mazoyer
 logo: /assets/img/photoCV.jpg
 cv: /assets/img/cv_beatrice_mazoyer.pdf
-description: PhD student at Institut National de l'Audiovisuel
-street: 18 avenue des Frères Lumière
-city: 94360 Bry-sur-Marne, France
-mail: bmazoyer[at]ina.fr
+description: PhD student at CentraleSupelec
+mail: beatrice.mazoyer[at]centralesupelec.fr
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

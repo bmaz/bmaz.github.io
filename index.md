@@ -25,12 +25,15 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Supervisors
+Main supervisor:\
+[Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
 
+Co-supervisors:\
 [Julia Cagé](https://sites.google.com/site/juliacagehomepage/home) Sciences Po Paris, Department of Economics
 
 [Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
 
-[Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
+
 
 ***
 
