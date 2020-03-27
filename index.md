@@ -3,8 +3,6 @@ layout: default
 ---
 
 
-***
-
 ## Research Project
 
 I am a PhD student working on **mutual influences between social media and traditional news media**. My research project is
@@ -37,6 +35,12 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Publications
+Mazoyer, B., Cagé, J., Hervé, N. & Hudelot, C. (2020). “A French Corpus for Event Detection on Twitter”.
+In *“International Conference on Language Resources and Evaluation (LREC 2020)”* (accepted)
+
+Evrard, M., Uro, R., Hervé, N. & Mazoyer, B. (2020). “French Tweet Corpus for Automatic Stance Detection”. 
+In *“International Conference on Language Resources and Evaluation (LREC 2020)”* (accepted)
+
 Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). [“Représentations lexicales pour 
 la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus 
 français et anglais”](https://arxiv.org/abs/2001.04139). In *“Extraction et Gestion des Connaissances (EGC 2020)”*
@@ -54,11 +58,17 @@ In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme C
 ***
 
 ## Communications and Posters
+["Automatically detect and archive media events on Twitter"](https://medialab.sciencespo.fr/en/news/detecter-et-archiver-automatiquement-les-evenements-mediatiques-sur-twitter/)
+Médialab Research Seminar, December 2019, Sciences Po Paris, France.
+
 Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2019). [“Réduire les biais dans la collecte de 
 tweets”](http://dahlia.egc.asso.fr/journeeDAHLIA28062019/7%20Mazoyer_et_al.pdf). In *"Journée DAHLIA - 
 Informatique et Humanités numériques : quelles problématiques pour quels domaines ?"*, June 24, 2019, 
-Nantes, France
+Nantes, France.
 
 Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. Poster at the 
 *[Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/)*, 
 May 24, 2019, Lyon, France.
+
+["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1585391806&hash=bef1a7c77f2c310f9a32b883c86fc5fa882adebb)
+PEPS EXIA Semicar, October 2016, Marne-la-Vallée, France
