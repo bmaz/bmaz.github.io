@@ -71,4 +71,4 @@ Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. 
 May 24, 2019, Lyon, France.
 
 ["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1585391806&hash=bef1a7c77f2c310f9a32b883c86fc5fa882adebb)
-PEPS EXIA Semicar, October 2016, Marne-la-Vallée, France
+PEPS EXIA Seminar, October 2016, Marne-la-Vallée, France
