@@ -35,11 +35,13 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Publications
-Mazoyer, B., Cagé, J., Hervé, N. & Hudelot, C. (2020). “A French Corpus for Event Detection on Twitter”.
-In *“International Conference on Language Resources and Evaluation (LREC 2020)”* (accepted)
+Mazoyer, B., Cagé, J., Hervé, N. & Hudelot, C. (2020). [“A French Corpus for Event Detection on 
+Twitter”](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.763.pdf).
+In *“International Conference on Language Resources and Evaluation (LREC 2020)”*,  6220–6227
 
-Evrard, M., Uro, R., Hervé, N. & Mazoyer, B. (2020). “French Tweet Corpus for Automatic Stance Detection”. 
-In *“International Conference on Language Resources and Evaluation (LREC 2020)”* (accepted)
+Evrard, M., Uro, R., Hervé, N. & Mazoyer, B. (2020). [“French Tweet Corpus for Automatic Stance 
+Detection”](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.775.pdf). 
+In *“International Conference on Language Resources and Evaluation (LREC 2020)”*, 6317–6322
 
 Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). [“Représentations lexicales pour 
 la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus 
