@@ -72,5 +72,5 @@ Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. 
 *[Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/)*, 
 May 24, 2019, Lyon, France.
 
-["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1585391806&hash=bef1a7c77f2c310f9a32b883c86fc5fa882adebb)
+["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1590653161&hash=8ce285a1fda0b7dd562ad9853473242bc6aa268b)
 PEPS EXIA Seminar, October 2016, Marne-la-Vallée, France
