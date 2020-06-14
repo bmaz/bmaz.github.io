@@ -1,8 +1,9 @@
 title: Béatrice Mazoyer
 logo: /assets/img/photoCV.jpeg
 cv: /assets/img/cv_beatrice_mazoyer.pdf
+paper: /assets/img/mazoyer_cage_herve_Social_Media_and_Newsroom_2020_06.pdf
 description: PhD student at CentraleSupelec
 mail: beatrice.mazoyer[at]centralesupelec.fr
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
