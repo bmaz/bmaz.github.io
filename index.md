@@ -9,7 +9,7 @@ I am a PhD student working on **mutual influences between social media and tradi
 bi-disciplinary: to make sense of datasets containing millions of messages a day, I use machine learning techniques.
 On the other hand, I use econometrical methods to understand the causalities between social media activity and publications
 by news media. My thesis is funded by the [Institut National de l'Audiovisuel](https://www.ina.fr) (the French Multimedia Institute)
-and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/) and [Sciences Po Paris](http://www.sciencespo.fr/).
+and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
 
 ***
 
@@ -26,8 +26,7 @@ Media Economics, Political Economics, Econometrics
 **Main supervisor:**
 [Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
 
-**Co-supervisors:**
-[Julia Cagé](https://sites.google.com/site/juliacagehomepage/home) Sciences Po Paris, Department of Economics
+**Co-supervisor:**
 [Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
 
 
