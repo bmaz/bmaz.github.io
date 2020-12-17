@@ -5,8 +5,8 @@ layout: default
 # Research Engineer
 
 ## Current Work
-I work at the French medialab, an interdisciplinary research laboratory that investigates the role of 
-digital technology in our societies. My research focuses on the collection and analysis of social media data, 
+I work at the French [medialab](https://medialab.sciencespo.fr/), an interdisciplinary research laboratory that investigates the role of 
+digital technology in our societies. My research focuses on the **collection and analysis of social media data**, 
 using natural language processing and data mining methods.
 
 
