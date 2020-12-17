@@ -2,14 +2,28 @@
 layout: default
 ---
 
+# Research Engineer
 
-## Research Project
+## Current Work
+I work at the French medialab, an interdisciplinary research laboratory that investigates the role of 
+digital technology in our societies. My research focuses on the collection and analysis of social media data, 
+using natural language processing and data mining methods.
 
-I am a PhD student working on **mutual influences between social media and traditional news media**. My research project is
-bi-disciplinary: to make sense of datasets containing millions of messages a day, I use machine learning techniques.
-On the other hand, I use econometrical methods to understand the causalities between social media activity and publications
-by news media. My thesis is funded by the [Institut National de l'Audiovisuel](https://www.ina.fr) (the French Multimedia Institute)
+
+## PhD
+
+During my PhD, I worked on **mutual influences between social media and traditional news media**. My research project was
+bi-disciplinary: to make sense of datasets containing millions of messages a day, I used machine learning techniques.
+On the other hand, I used econometrical methods to understand the causal effect of social media activity on publications
+by news media. My thesis was funded by the [Institut National de l'Audiovisuel](https://www.ina.fr) (the French Multimedia Institute)
 and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
+**Main supervisor:**
+[Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
+
+**Co-supervisor:**
+[Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
+
+
 
 ***
 
@@ -19,17 +33,6 @@ Natural Language Processing, Indexing, Information Retrieval, Representation Lea
 
 **Economics:**
 Media Economics, Political Economics, Econometrics
-
-***
-
-## Supervisors
-**Main supervisor:**
-[Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
-
-**Co-supervisor:**
-[Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
-
-
 
 ***
 
