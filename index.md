@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Research Engineer
+# Research Engineer in Digital Methods
 
 ## Current Work
 I work at the French [medialab](https://medialab.sciencespo.fr/), an interdisciplinary research laboratory that investigates the role of 
