@@ -4,6 +4,6 @@ cv: /assets/img/cv_beatrice_mazoyer.pdf
 paper: /assets/img/cage_herve_mazoyer_Twitter_propagation_2020_10.pdf
 description: PhD student at CentraleSupelec
 mail: beatrice.mazoyer[at]centralesupelec.fr
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
