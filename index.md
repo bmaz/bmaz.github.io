@@ -12,17 +12,17 @@ using natural language processing and data mining methods.
 
 ## PhD
 
-During my PhD, I worked on **mutual influences between social media and traditional news media**. My research project was
+During my [PhD](http://www.theses.fr/2020UPASC009), I worked on **mutual influences between social media and traditional news media**. My research project was
 bi-disciplinary: to make sense of datasets containing millions of messages a day, I used machine learning techniques.
 On the other hand, I used econometrical methods to understand the causal effect of social media activity on publications
 by news media. My thesis was funded by the [Institut National de l'Audiovisuel](https://www.ina.fr) (the French Multimedia Institute)
 and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
+
 **Main supervisor:**
 [Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
 
 **Co-supervisor:**
 [Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
-
 
 
 ***
