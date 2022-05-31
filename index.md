@@ -40,6 +40,10 @@ Media Economics, Political Economics, Econometrics
 ***
 
 ## Publications
+Cagé, J., Hervé, N. & Mazoyer, B. [“Social Media and Newsroom Production 
+Decisions”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663899).
+*Submitted.*
+
 Mazoyer, B., Cagé, J., Hervé, N. & Hudelot, C. (2020). [“A French Corpus for Event Detection on 
 Twitter”](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.763.pdf).
 In *“International Conference on Language Resources and Evaluation (LREC 2020)”*,  6220–6227
