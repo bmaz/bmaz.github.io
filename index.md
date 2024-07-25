@@ -15,8 +15,8 @@ digital technology in our societies. My research focuses on the circulation of i
 ## Open-Source Software
 
 - [pimmi](https://github.com/nrv/pimmi): clustering of images based on total or partial copy detection
-- [twembeddings](https://github.com/ina-foss/twembeddings): my scripts using LLM embeddings to detect events in a stream of documents (tweets or news)
-- [stories](https://github.com/medialab/stories): rust implementation of the event detection algorithm detailed in [twembeddings](https://github.com/ina-foss/twembeddings).
+- [twembeddings](https://github.com/ina-foss/twembeddings): my [Python](https://www.python.org/) scripts using LLM embeddings to detect events in a stream of documents (tweets, news, etc.)
+- [stories](https://github.com/medialab/stories): a [Rust](https://www.rust-lang.org/) implementation of the event detection algorithm detailed in [twembeddings](https://github.com/ina-foss/twembeddings)
 - [gazouilloire](https://github.com/medialab/gazouilloire): long term tweets collection
 
 ***
