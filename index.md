@@ -7,10 +7,15 @@ layout: default
 ***
 
 ## Current Work
-I work at the French [medialab](https://medialab.sciencespo.fr/), an interdisciplinary research laboratory that investigates the role of 
-digital technology in our societies. My research focuses on the **collection and analysis of social media data**, 
-using natural language processing and data mining methods.
+I work at the French [médialab](https://medialab.sciencespo.fr/), an interdisciplinary research laboratory that investigates the role of
+digital technology in our societies. My research focuses on the circulation of information between social networks and traditional media. I use methods from data mining, natural language processing and computer vision. I contribute to the development of open-source software designed for research in humanities and social sciences.
+***
 
+## Open-Source Software
+- [pimmi](https://github.com/nrv/pimmi): clustering of images based on total or partial copy detection
+- [twembeddings](https://github.com/ina-foss/twembeddings): my scripts using LLM embeddings to detect events in a stream of documents (tweets or news)
+- [stories](https://github.com/medialab/stories): rust implementation of the event detection algorithm detailed in [twembeddings](https://github.com/ina-foss/twembeddings).
+- [gazouilloire](https://github.com/medialab/gazouilloire): long term tweets collection
 ***
 
 ## PhD
@@ -22,63 +27,63 @@ by news media. My thesis was funded by the [Institut National de l'Audiovisuel](
 and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
 
 **Main supervisor:**
+
 [Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
 
-**Co-supervisor:**
+**Co-supervisors:**
+
+[Julia Cagé](https://juliacage.com/) Sciences Po, Department of Economics
+
 [Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
-
-
-***
-
-## Research Interests
-**Computer Sciences:**
-Natural Language Processing, Indexing, Information Retrieval, Representation Learning
-
-**Economics:**
-Media Economics, Political Economics, Econometrics
 
 ***
 
 ## Publications
-Cagé, J., Hervé, N. & Mazoyer, B. [“Social Media and Newsroom Production 
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2024). ["Comparison of Short-Text Embeddings for Unsupervised Event Detection in a Stream of Tweets"](). In *Advances in Knowledge Discovery and Management*, Volume 10, 81–97.
+
+Cagé, J., Hervé, N. & Mazoyer, B. [“Social Media and Newsroom Production
 Decisions”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663899).
 *Submitted.*
 
-Mazoyer, B., Cagé, J., Hervé, N. & Hudelot, C. (2020). [“A French Corpus for Event Detection on 
+Mazoyer, B., Cagé, J., Hervé, N. & Hudelot, C. (2020). [“A French Corpus for Event Detection on
 Twitter”](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.763.pdf).
 In *“International Conference on Language Resources and Evaluation (LREC 2020)”*,  6220–6227
 
-Evrard, M., Uro, R., Hervé, N. & Mazoyer, B. (2020). [“French Tweet Corpus for Automatic Stance 
-Detection”](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.775.pdf). 
+Evrard, M., Uro, R., Hervé, N. & Mazoyer, B. (2020). [“French Tweet Corpus for Automatic Stance
+Detection”](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.775.pdf).
 In *“International Conference on Language Resources and Evaluation (LREC 2020)”*, 6317–6322
 
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). [“Représentations lexicales pour 
-la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus 
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2020). [“Représentations lexicales pour
+la détection non supervisée d’événements dans un flux de tweets : étude sur des corpus
 français et anglais”](https://arxiv.org/abs/2001.04139). In *“Extraction et Gestion des Connaissances (EGC 2020)”*
 
 Mazoyer, B., Cagé, J., Hudelot, C., & Viaud, M.-L. (2018). [“Real-Time Collection of Reliable
-and Representative Tweets Datasets Related to News Events”](http://ceur-ws.org/Vol-2078/paper2.pdf). 
-In *“Proceedings of the First International Workshop on Analysis of Broad Dynamic Topics over Social 
-Media (BroDyn 2018) co-located with the 40th European Conference on Information Retrieval (ECIR 2018)”*, 
+and Representative Tweets Datasets Related to News Events”](http://ceur-ws.org/Vol-2078/paper2.pdf).
+In *“Proceedings of the First International Workshop on Analysis of Broad Dynamic Topics over Social
+Media (BroDyn 2018) co-located with the 40th European Conference on Information Retrieval (ECIR 2018)”*,
 23–34
 
 Mazoyer, B., Turenne, N., & Viaud, M.-L. (2017). [“Étude des influences réciproques entre médias
-sociaux et médias traditionnels”](https://hal.archives-ouvertes.fr/hal-01691967/document). 
+sociaux et médias traditionnels”](https://hal.archives-ouvertes.fr/hal-01691967/document).
 In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme Computationnel 2017”*, 37–40
 
 ***
 
 ## Communications and Posters
+**DigitHum 2023** Mazoyer, B. et Plique, G. "Explorer des réseaux dans un carnet interactif avec ipysigma". @ *"Workshop Digit_Hum 2023: Manipuler des données en SHS, R, Python et les carnets interactifs"* · [slides](https://medialab.github.io/ipysigma/presentations/digithum-2023) · [video](https://explore.psl.eu/fr/le-magazine/videos/explorer-des-reseaux-dans-un-carnet-interactif-avec-ipysigma)
+
+**FOSDEM 2023** Hervé N. et Mazoyer B. "PIMMI: a command line interface to study image propagation" · [slides](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/attachments/slides/5581/export/events/attachments/openresearch_pimmi/slides/5581/PIMMI_slides_FOSDEM2023.pdf) · [video](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/)
+
 ["Automatically detect and archive media events on Twitter"](https://medialab.sciencespo.fr/en/news/detecter-et-archiver-automatiquement-les-evenements-mediatiques-sur-twitter/)
 Médialab Research Seminar, December 2019, Sciences Po Paris, France.
 
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2019). [“Réduire les biais dans la collecte de 
-tweets”](http://dahlia.egc.asso.fr/journeeDAHLIA28062019/7%20Mazoyer_et_al.pdf). In *"Journée DAHLIA - 
-Informatique et Humanités numériques : quelles problématiques pour quels domaines ?"*, June 24, 2019, 
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2019). [“Réduire les biais dans la collecte de
+tweets”](http://dahlia.egc.asso.fr/journeeDAHLIA28062019/7%20Mazoyer_et_al.pdf). In *"Journée DAHLIA -
+Informatique et Humanités numériques : quelles problématiques pour quels domaines ?"*, June 24, 2019,
 Nantes, France.
 
-Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. Poster at the 
-*[Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/)*, 
+Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. Poster at the
+*[Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/)*,
 May 24, 2019, Lyon, France.
 
 ["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1590653161&hash=8ce285a1fda0b7dd562ad9853473242bc6aa268b)
