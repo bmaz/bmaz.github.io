@@ -9,13 +9,16 @@ layout: default
 ## Current Work
 I work at the French [médialab](https://medialab.sciencespo.fr/), an interdisciplinary research laboratory that investigates the role of
 digital technology in our societies. My research focuses on the circulation of information between social networks and traditional media. I use methods from data mining, natural language processing and computer vision. I contribute to the development of open-source software designed for research in humanities and social sciences.
+
 ***
 
 ## Open-Source Software
+
 - [pimmi](https://github.com/nrv/pimmi): clustering of images based on total or partial copy detection
 - [twembeddings](https://github.com/ina-foss/twembeddings): my scripts using LLM embeddings to detect events in a stream of documents (tweets or news)
 - [stories](https://github.com/medialab/stories): rust implementation of the event detection algorithm detailed in [twembeddings](https://github.com/ina-foss/twembeddings).
 - [gazouilloire](https://github.com/medialab/gazouilloire): long term tweets collection
+
 ***
 
 ## PhD
@@ -39,7 +42,7 @@ and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
 ***
 
 ## Publications
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2024). ["Comparison of Short-Text Embeddings for Unsupervised Event Detection in a Stream of Tweets"](). In *Advances in Knowledge Discovery and Management*, Volume 10, 81–97.
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2024). [“Comparison of Short-Text Embeddings for Unsupervised Event Detection in a Stream of Tweets”](https://link.springer.com/chapter/10.1007/978-3-031-40403-0_4). In *Advances in Knowledge Discovery and Management*, Volume 10, 81–97 · [preprint](assets/img/Short_Text_Embeddings_for_Unsupervised_Event_Detection_in_a_Stream_of_Tweets.pdf)
 
 Cagé, J., Hervé, N. & Mazoyer, B. [“Social Media and Newsroom Production
 Decisions”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663899).
