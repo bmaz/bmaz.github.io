@@ -42,7 +42,18 @@ and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
 ***
 
 ## Publications
-Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2024). [“Comparison of Short-Text Embeddings for Unsupervised Event Detection in a Stream of Tweets”](https://link.springer.com/chapter/10.1007/978-3-031-40403-0_4). In *Advances in Knowledge Discovery and Management*, Volume 10, 81–97 · [preprint](assets/img/Short_Text_Embeddings_for_Unsupervised_Event_Detection_in_a_Stream_of_Tweets.pdf)
+
+Créac’h, M., & Mazoyer, B. (2024).
+[“Tableau vivant memes in lockdown: virality and vitality.”](https://journals.openedition.org/hybrid/4745)
+*Hybrid. Revue des arts et médiations humaines.*
+
+Ray, M., Wang, Q., Mélanie-Becquet, F., Poibeau, T., & Mazoyer, B. (2024).
+[“An Incremental Clustering Baseline for Event Detection on Twitter”](https://arxiv.org/abs/2309.11495).
+In *Proceedings of the Workshop on the Future of Event Detection (FuturED)*, 18-24.
+
+Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2024).
+[“Comparison of Short-Text Embeddings for Unsupervised Event Detection in a Stream of Tweets”](https://link.springer.com/chapter/10.1007/978-3-031-40403-0_4).
+In *Advances in Knowledge Discovery and Management*, Volume 10, 81–97 · [preprint](assets/img/Short_Text_Embeddings_for_Unsupervised_Event_Detection_in_a_Stream_of_Tweets.pdf)
 
 Cagé, J., Hervé, N. & Mazoyer, B. [“Social Media and Newsroom Production
 Decisions”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3663899).
