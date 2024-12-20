@@ -48,7 +48,7 @@ Créac’h, M., & Mazoyer, B. (2024).
 *Hybrid. Revue des arts et médiations humaines.*
 
 Ray, M., Wang, Q., Mélanie-Becquet, F., Poibeau, T., & Mazoyer, B. (2024).
-[“An Incremental Clustering Baseline for Event Detection on Twitter”](https://arxiv.org/abs/2309.11495).
+[“An Incremental Clustering Baseline for Event Detection on Twitter”](https://aclanthology.org/2024.futured-1.2.pdf).
 In *Proceedings of the Workshop on the Future of Event Detection (FuturED)*, 18-24.
 
 Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2024).
