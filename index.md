@@ -21,26 +21,6 @@ digital technology in our societies. My research focuses on the circulation of i
 
 ***
 
-## PhD
-
-During my [PhD](http://www.theses.fr/2020UPASC009), I worked on **mutual influences between social media and traditional news media**. My research project was
-bi-disciplinary: to make sense of datasets containing millions of messages a day, I used machine learning techniques.
-On the other hand, I used econometrical methods to understand the causal effect of social media activity on publications
-by news media. My thesis was funded by the [Institut National de l'Audiovisuel](https://www.ina.fr) (the French Multimedia Institute)
-and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
-
-**Main supervisor:**
-
-[Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
-
-**Co-supervisors:**
-
-[Julia Cagé](https://juliacage.com/) Sciences Po, Department of Economics
-
-[Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
-
-***
-
 ## Publications
 
 Créac’h, M., & Mazoyer, B. (2024).
@@ -102,3 +82,25 @@ May 24, 2019, Lyon, France.
 
 ["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1590653161&hash=8ce285a1fda0b7dd562ad9853473242bc6aa268b)
 PEPS EXIA Seminar, October 2016, Marne-la-Vallée, France
+
+***
+
+## PhD
+
+During my [PhD](http://www.theses.fr/2020UPASC009), I worked on **mutual influences between social media and traditional news media**. My research project was
+bi-disciplinary: to make sense of datasets containing millions of messages a day, I used machine learning techniques.
+On the other hand, I used econometrical methods to understand the causal effect of social media activity on publications
+by news media. My thesis was funded by the [Institut National de l'Audiovisuel](https://www.ina.fr) (the French Multimedia Institute)
+and co-supervised by [CentraleSupélec](http://www.centralesupelec.fr/).
+
+**Main supervisor:**
+
+[Céline Hudelot](http://perso.ecp.fr/~hudelotc/) CentraleSupelec, Mathematics and Interaction with Computer Sciences (MICS) Laboratory
+
+**Co-supervisors:**
+
+[Julia Cagé](https://juliacage.com/) Sciences Po, Department of Economics
+
+[Nicolas Hervé](http://www.herve.name/pmwiki.php/Main/HomePage) Institut National de l’Audiovisuel, Research Department
+
+[Marie-Luce Viaud](https://cepr.org/about/people/marie-luce-viaud) Institut National de l’Audiovisuel, Research Department
