@@ -1,3 +1,0 @@
-Reveal.initialize({
-  plugins: [ RevealMarkdown ]
-});
