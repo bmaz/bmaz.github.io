@@ -72,11 +72,13 @@ In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme C
 ## Communications and Posters
 **FOSDEM 2026** Mazoyer B., Ooghe-Tabanou B., & Plique G. "Data science from the command line: a look back at 2 years of using xan" · [slides](https://fosdem.org/2026/events/attachments/ENAFHJ-2-years-of-using-xan/slides/267502/xan_-_fos_rvh0w1d.pdf) · [video](https://fosdem.org/2026/schedule/event/ENAFHJ-2-years-of-using-xan/)
 
+**EGC 2026** Ray, M., Poibeau, T., Parasie, S., Hervé, N. & Mazoyer, B. "Exploiter la presse écrite pour l'extraction des séquences audiovisuelles liées à un événement d'actualité" · [short paper](https://editions-rnti.fr/render_pdf.php?p=1003109) · [long paper](http://www.herve.name/research/egc26_long_nahel.pdf)
+
 **DigitHum 2023** Mazoyer, B. & Plique, G. "Explorer des réseaux dans un carnet interactif avec ipysigma". @ *"Workshop Digit_Hum 2023: Manipuler des données en SHS, R, Python et les carnets interactifs"* · [slides](https://medialab.github.io/ipysigma/presentations/digithum-2023) · [video](https://explore.psl.eu/fr/le-magazine/videos/explorer-des-reseaux-dans-un-carnet-interactif-avec-ipysigma)
 
 **FOSDEM 2023** Hervé N. & Mazoyer B. "PIMMI: a command line interface to study image propagation" · [slides](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/attachments/slides/5581/export/events/attachments/openresearch_pimmi/slides/5581/PIMMI_slides_FOSDEM2023.pdf) · [video](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/)
 
-["Automatically detect and archive media events on Twitter"](https://medialab.sciencespo.fr/en/news/detecter-et-archiver-automatiquement-les-evenements-mediatiques-sur-twitter/)
+Mazoyer, B. (2019). ["Automatically detect and archive media events on Twitter"](https://medialab.sciencespo.fr/en/news/detecter-et-archiver-automatiquement-les-evenements-mediatiques-sur-twitter/)
 Médialab Research Seminar, December 2019, Sciences Po Paris, France.
 
 Mazoyer, B., Hervé, N., Hudelot, C., & Cagé, J. (2019). [“Réduire les biais dans la collecte de
@@ -88,7 +90,7 @@ Mazoyer, B., (2019). “Using Text and Image for Topic Detection on Twitter”. 
 *[Workshop on Representation Learning for Complex Data](http://mediamining.univ-lyon2.fr/workshop2019/)*,
 May 24, 2019, Lyon, France.
 
-["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1590653161&hash=8ce285a1fda0b7dd562ad9853473242bc6aa268b)
+Mazoyer, B., (2016) ["Capter les tweets liés à l'actualité"](http://ligm.u-pem.fr/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/fichiers/PEPSEXIA/ArticlesPdf/Beatrice_.pdf&t=1590653161&hash=8ce285a1fda0b7dd562ad9853473242bc6aa268b)
 PEPS EXIA Seminar, October 2016, Marne-la-Vallée, France
 
 ***
