@@ -25,7 +25,7 @@ digital technology in our societies. My research focuses on the circulation of i
 
 Vendeville, A., et al. (2026). [Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X.](https://doi.org/10.1016/j.dib.2026.112615) *Data in Brief.*
 
-Parasie, S., Machut, A., \& Mazoyer, B. (2025). [Legacy Media as a Moral Compass: A Computational Study of the Politicization of a Migrant Crime on Twitter in France.](https://journals.sagepub.com/doi/pdf/10.1177/19401612251377328) *The International Journal of Press/Politics.*
+Parasie, S., Machut, A., & Mazoyer, B. (2025). [Legacy Media as a Moral Compass: A Computational Study of the Politicization of a Migrant Crime on Twitter in France.](https://journals.sagepub.com/doi/pdf/10.1177/19401612251377328) *The International Journal of Press/Politics.*
 
 Crépel, M. et al. (2025). [Une cartographie web de l’écosystème médiatique français](https://dc.episciences.org/articles/15800), *Data & Corpus.*
 
