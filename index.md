@@ -23,6 +23,12 @@ digital technology in our societies. My research focuses on the circulation of i
 
 ## Publications
 
+Vendeville, A., et al. (2026). [Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X.](https://doi.org/10.1016/j.dib.2026.112615) *Data in Brief.*
+
+Parasie, S., Machut, A., \& Mazoyer, B. (2025). [Legacy Media as a Moral Compass: A Computational Study of the Politicization of a Migrant Crime on Twitter in France.](https://journals.sagepub.com/doi/pdf/10.1177/19401612251377328) *The International Journal of Press/Politics.*
+
+Crépel, M. et al. (2025). [Une cartographie web de l’écosystème médiatique français](https://dc.episciences.org/articles/15800), *Data & Corpus.*
+
 Créac’h, M., & Mazoyer, B. (2024).
 [“Tableau vivant memes in lockdown: virality and vitality.”](https://journals.openedition.org/hybrid/4745)
 *Hybrid. Revue des arts et médiations humaines.*
@@ -64,9 +70,11 @@ In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme C
 ***
 
 ## Communications and Posters
-**DigitHum 2023** Mazoyer, B. et Plique, G. "Explorer des réseaux dans un carnet interactif avec ipysigma". @ *"Workshop Digit_Hum 2023: Manipuler des données en SHS, R, Python et les carnets interactifs"* · [slides](https://medialab.github.io/ipysigma/presentations/digithum-2023) · [video](https://explore.psl.eu/fr/le-magazine/videos/explorer-des-reseaux-dans-un-carnet-interactif-avec-ipysigma)
+**FOSDEM 2026** Mazoyer B., Ooghe-Tabanou B., & Plique G. "Data science from the command line: a look back at 2 years of using xan" · [slides](https://fosdem.org/2026/events/attachments/ENAFHJ-2-years-of-using-xan/slides/267502/xan_-_fos_rvh0w1d.pdf) · [video](https://fosdem.org/2026/schedule/event/ENAFHJ-2-years-of-using-xan/)
 
-**FOSDEM 2023** Hervé N. et Mazoyer B. "PIMMI: a command line interface to study image propagation" · [slides](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/attachments/slides/5581/export/events/attachments/openresearch_pimmi/slides/5581/PIMMI_slides_FOSDEM2023.pdf) · [video](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/)
+**DigitHum 2023** Mazoyer, B. & Plique, G. "Explorer des réseaux dans un carnet interactif avec ipysigma". @ *"Workshop Digit_Hum 2023: Manipuler des données en SHS, R, Python et les carnets interactifs"* · [slides](https://medialab.github.io/ipysigma/presentations/digithum-2023) · [video](https://explore.psl.eu/fr/le-magazine/videos/explorer-des-reseaux-dans-un-carnet-interactif-avec-ipysigma)
+
+**FOSDEM 2023** Hervé N. & Mazoyer B. "PIMMI: a command line interface to study image propagation" · [slides](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/attachments/slides/5581/export/events/attachments/openresearch_pimmi/slides/5581/PIMMI_slides_FOSDEM2023.pdf) · [video](https://archive.fosdem.org/2023/schedule/event/openresearch_pimmi/)
 
 ["Automatically detect and archive media events on Twitter"](https://medialab.sciencespo.fr/en/news/detecter-et-archiver-automatiquement-les-evenements-mediatiques-sur-twitter/)
 Médialab Research Seminar, December 2019, Sciences Po Paris, France.
