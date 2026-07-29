@@ -73,7 +73,7 @@ In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme C
 ***
 
 ## Communications and Posters
-[**Colloque - La « bataille culturelle » est-elle gagnée ?**](https://lpcm.hypotheses.org/46970) Mazoyer, B., Munnet, B., Parasie, S. & Tainturier, B. "Qui a gagné la bataille des faits ? La régulation du débat public face à l’extrême droite pendant « l’affaire Nahel »"
+**Colloque - La « bataille culturelle » est-elle gagnée ?** · [program](https://lpcm.hypotheses.org/46970) · Mazoyer, B., Munnet, B., Parasie, S. & Tainturier, B. (2026). "Qui a gagné la bataille des faits ? La régulation du débat public face à l’extrême droite pendant « l’affaire Nahel »"
 
 **FOSDEM 2026** Mazoyer B., Ooghe-Tabanou B., & Plique G. "Data science from the command line: a look back at 2 years of using xan" · [slides](https://fosdem.org/2026/events/attachments/ENAFHJ-2-years-of-using-xan/slides/267502/xan_-_fos_rvh0w1d.pdf) · [video](https://fosdem.org/2026/schedule/event/ENAFHJ-2-years-of-using-xan/)
 
