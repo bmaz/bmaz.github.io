@@ -5,5 +5,6 @@ paper: /assets/img/cage_herve_mazoyer_Twitter_propagation_2020_10.pdf
 description:
 mail: beatrice.mazoyer[at]sciencespo.fr
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+
+plugins:  
+  - jekyll-seo-tag
