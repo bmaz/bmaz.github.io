@@ -14,6 +14,7 @@ digital technology in our societies. My research focuses on the circulation of i
 
 ## Open-Source Software
 
+- [yuzu](https://github.com/medialab/yuzu): [currently under development] a command line tool to use standard language models on CSV files
 - [pimmi](https://github.com/nrv/pimmi): clustering of images based on total or partial copy detection
 - [twembeddings](https://github.com/ina-foss/twembeddings): my [Python](https://www.python.org/) scripts using LLM embeddings to detect events in a stream of documents (tweets, news, etc.)
 - [stories](https://github.com/medialab/stories): a [Rust](https://www.rust-lang.org/) implementation of the event detection algorithm detailed in [twembeddings](https://github.com/ina-foss/twembeddings)
@@ -22,6 +23,8 @@ digital technology in our societies. My research focuses on the circulation of i
 ***
 
 ## Publications
+Parasie, S., Machut, A., & Mazoyer, B. (2026). La politisation de l’actualité sur les réseaux sociaux. Enquêter avec « la dénonciation » de Luc Boltanski (1984). In Kaufmann, L. & Lambert, F. (dir), [*Les scènes de la dénonciation publique. Médias, langages et sociétés.*](https://www.editionsbdl.com/produit/theories-et-pratiques-de-la-denonciation-publique/)
+
 
 Vendeville, A., et al. (2026). [Mapping the political landscape from data traces: multidimensional opinions of users, politicians and media outlets on X.](https://doi.org/10.1016/j.dib.2026.112615) *Data in Brief.*
 
@@ -70,6 +73,8 @@ In *“Amsaleg, L., Claveau, V. & Tannier, X. Actes de l’atelier Journalisme C
 ***
 
 ## Communications and Posters
+[**Colloque - La « bataille culturelle » est-elle gagnée ?**](https://lpcm.hypotheses.org/46970) Mazoyer, B., Munnet, B., Parasie, S. & Tainturier, B. "Qui a gagné la bataille des faits ? La régulation du débat public face à l’extrême droite pendant « l’affaire Nahel »"
+
 **FOSDEM 2026** Mazoyer B., Ooghe-Tabanou B., & Plique G. "Data science from the command line: a look back at 2 years of using xan" · [slides](https://fosdem.org/2026/events/attachments/ENAFHJ-2-years-of-using-xan/slides/267502/xan_-_fos_rvh0w1d.pdf) · [video](https://fosdem.org/2026/schedule/event/ENAFHJ-2-years-of-using-xan/)
 
 **EGC 2026** Ray, M., Poibeau, T., Parasie, S., Hervé, N. & Mazoyer, B. "Exploiter la presse écrite pour l'extraction des séquences audiovisuelles liées à un événement d'actualité" · [short paper](https://editions-rnti.fr/render_pdf.php?p=1003109) · [long paper](http://www.herve.name/research/egc26_long_nahel.pdf)
